@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "perf_hooks": "^0.0.1",
     "ts-node": "^10.9.2"
   }
 }
